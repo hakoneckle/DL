@@ -1,1 +1,16 @@
-Exercise sheets from the Modern Deep Learning course at TUM spring 2023.
+- **Course**: Modern Deep Learning at TUM, spring 2023
+- **Type**: Exercises
+- **About**:
+  - Exercise 1: Perceptron
+  - Exercise 2: Exploring the Bias Variance Tradeoff
+  - Exercise 3: Training a Perceptron
+  - Exercise 4: Building a Multilayer Perceptron (MLP)
+  - Exercise 5: Automatic Differentiation
+  - Exercise 6: Exploring PyTorch
+  - Exercise 7: Training Convolutional Nets
+  - Exercise 8: Training Permutation-Invariant Networks
+  - Exercise 9: Training Recurrent Neural Nets
+  - Exercise 10: Attention Mechanisms
+  - Exercise 11: Training an Autoencoder
+  - Exercise 12: Training a GAN
+  - Exercise 13: Affine Transformation
